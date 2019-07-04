@@ -6,6 +6,7 @@
     </div>
     <div class="card-body">
         <h5 class="card-title">Special title treatment</h5>
+        <img :src="'https://www.jquery-az.com/html/images/banana.jpg'" style="height:500px" >
         <p class="card-text">With supporting text below as a natural lead-in to additional content.</p>
         <router-link to="/shoppingCart">Buy</router-link>
     </div>

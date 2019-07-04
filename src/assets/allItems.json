@@ -1,0 +1,12 @@
+[
+    {
+      "_id": 1,
+      "Name": "Milk Powder",
+      "price": 100
+    },{
+    "_id": 2,
+    "Name": "Bread",
+    "price": 1000
+  }
+  ]
+  
