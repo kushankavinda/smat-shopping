@@ -1,20 +1,13 @@
 <template>
   <div id="app">
-    <HelloWorld msg="Smart Shopping"/> 
-    <allItems/>
+    <router-view/>
   </div>
 </template>
 
 <script>
-import HelloWorld from './components/HelloWorld.vue'
-import allItems from './components/allItems.vue'
 
 export default {
   name: 'app',
-  components: {
-    HelloWorld,
-    allItems
-  }
 }
 </script>
 
